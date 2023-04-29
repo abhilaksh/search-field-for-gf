@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Search Field for Gravity Forms
-Plugin URI: https://www.wpsunshine.com/plugins/gravity-forms-search-field
-Description: Searches selected post types after a user types, displaying results below field.
+Plugin URI: https://alp.digital
+Description: Searches selected post types or users after a user types, displaying results below field.
 Version: 1.1.1
-Author: WP Sunshine
-Author URI: https://www.wpsunshine.com
+Author: Alp Digital
+Author URI: https://alp.digital
 Text Domain: gravityforms-search
 */
 
